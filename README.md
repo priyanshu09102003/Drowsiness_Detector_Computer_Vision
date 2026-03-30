@@ -231,7 +231,3 @@ The detector prints a per-frame progress log (headless mode) and a summary on co
 4. OpenCV Documentation — https://docs.opencv.org
 
 ---
-
-## License
-
-MIT License
