@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Large model files — download via setup.py
+shape_predictor_68_face_landmarks.dat
+shape_predictor_68_face_landmarks.dat.bz2
+
+# Dataset images — too large for git
+dataset/open/
+dataset/closed/
+
+# Output videos
+result.avi
+*.avi
+session.avi
+training_plot.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
